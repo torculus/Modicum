@@ -1,5 +1,6 @@
-Modicum-og is the original version of Modicum
+# Modicum !["Picture"](./icons/img1.png)
 
-The Makefile is included in the Console directory
+Modicum is a planned Wolfram® Language front-end for LLVM, written in Rust  
 
-As of this release, Modicum is command-line only
+Plans for 2021:
+* Implement arrays, preferably with `malloc` or linked lists
